@@ -128,7 +128,7 @@ Power BI Dashboard	Full dashboard creation & forecasting	9/12/2025
 (Insert your dashboard screenshot here)
 Example:
 
-![Dashboard](images/maven_dashboard.png)
+![Dashboard](Maven-Roast-Dashboard-Preview.png)
 
 ## Key Insights
 
@@ -144,7 +144,7 @@ Forecast predicts continued sales growth over the next quarter.
 
 ## How to Reproduce
 
-Download dataset from Kaggle
+Download dataset from Kaggle and change file type to excel file ( .xlsx )
 
 Run Python notebook for preprocessing and EDA
 
