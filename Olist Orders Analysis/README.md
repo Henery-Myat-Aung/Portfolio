@@ -5,6 +5,9 @@
 ## Project Overview
 Olist is a Brazilian e-commerce integrator that connects small sellers to major marketplaces. This project analyzes **100k+ orders form 2016-2018** to uncover opportunities for operational efficiency and revenue growth.
 
+### Dataset <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&select=olist_orders_dataset.csv">[Link to dataset]</a>
+The dataset is sourced from Kaggle and Licensed as <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+
 The analysis moves beyond standard descriptive metrics ("What happened?") to prescriptive strategy ("What should we do?"), focusing on **logistics optimization** and **customer retention mechanics**.
 
 ## Business Problem
