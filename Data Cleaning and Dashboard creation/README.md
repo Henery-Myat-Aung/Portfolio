@@ -1,4 +1,5 @@
 # Coffee Shop Sales Analytics Dashboard
+<img width="1104" height="842" alt="image" src="https://github.com/user-attachments/assets/75dc672c-8634-4f5a-9ddb-f4607167391d" />
 
 ##  Project Overview
 This project analyzes sales performance from a coffee shop chain to uncover revenue trends, customer purchasing behavior, and product performance. 
