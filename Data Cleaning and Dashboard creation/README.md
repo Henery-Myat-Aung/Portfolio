@@ -1,5 +1,5 @@
 # Coffee Shop Sales Analytics Dashboard
-<img width="1104" height="842" alt="image" src="https://github.com/user-attachments/assets/75dc672c-8634-4f5a-9ddb-f4607167391d" />
+<img width="1451" height="1095" alt="image" src="https://github.com/user-attachments/assets/d96d9ffe-023f-4d40-b7b9-566d2ea9c6f5" />
 
 ##  Project Overview
 This project analyzes sales performance from a coffee shop chain to uncover revenue trends, customer purchasing behavior, and product performance. 
@@ -8,7 +8,7 @@ staffing allocation, and promotional planning.
 
 The data is sourced from : https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
 
-The Dashboard can be accessed from : https://1drv.ms/x/c/22043149b730ef96/EQpW3RImlZRBgHNLjkzHTk0Bdxqv6rDbKQNkka3Fv0kuuw?e=u1BjdF
+The Dashboard can be accessed from : [https://1drv.ms/x/c/22043149b730ef96/EQpW3RImlZRBgHNLjkzHTk0Bdxqv6rDbKQNkka3Fv0kuuw?e=u1BjdF](https://1drv.ms/x/c/22043149b730ef96/IQASixKPQ_cBT738QTuPerIBAXJC9aXEyePbhxYWLX6fA_0?e=JrNZhU&nav=MTVfe0I3MEUyNDcyLTk3NDEtNEFFRS04OEQzLTM1NEJDQTRDQUY4NX0)
 
 ---
 
